@@ -38,9 +38,9 @@ class Trainer(object):
                 param.requires_grad = False
 
         self.print_log('Build VOS model.')
-        CFBI = importlib.import_module(cfg.MODEL_MODULE)
+        RPCM = importlib.import_module(cfg.MODEL_MODULE)
 
-        self.model = CFBI.get_module()(
+        self.model = RPCM.get_module()(
             cfg,
             self.feature_extracter).cuda(self.gpu)
 
