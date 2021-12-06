@@ -7,9 +7,9 @@ from networks.layers.matching import global_matching, global_matching_for_eval, 
 from networks.layers.attention import calculate_attention_head, calculate_attention_head_for_eval
 from networks.p2t.prop_module import  P2C,DynamicPreHead
 
-class CFBI(nn.Module):
+class RPCM(nn.Module):
     def __init__(self, cfg, feature_extracter):
-        super(CFBI, self).__init__()
+        super(RPCM, self).__init__()
         self.cfg = cfg
         self.epsilon = cfg.MODEL_EPSILON
 
@@ -245,4 +245,4 @@ class CFBI(nn.Module):
         return dic_tmp, boards, memory_cur_list
 
 def get_module():
-    return CFBI
+    return RPCM
