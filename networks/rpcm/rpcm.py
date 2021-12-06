@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from networks.layers.loss import Concat_CrossEntropyLoss
 from networks.layers.matching import global_matching, global_matching_for_eval, local_matching, foreground2background
 from networks.layers.attention import calculate_attention_head, calculate_attention_head_for_eval
-from networks.p2t.prop_module import  P2C,DynamicPreHead
+from networks.rpcm.prop_module import  P2C,DynamicPreHead
 
 class RPCM(nn.Module):
     def __init__(self, cfg, feature_extracter):
