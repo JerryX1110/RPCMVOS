@@ -6,10 +6,10 @@ import importlib
 
 def main():
     import argparse
-    parser = argparse.ArgumentParser(description="Eval CFBI")
+    parser = argparse.ArgumentParser(description="Eval RPCM")
     parser.add_argument('--exp_name', type=str, default='')
 
-    parser.add_argument('--config', type=str, default='configs.resnet101_cfbi')
+    parser.add_argument('--config', type=str, default='')
     
     parser.add_argument('--gpu_id', type=int, default=0)
 
@@ -61,7 +61,7 @@ def main():
         cfg.TEST_MAX_SIZE = 800 * 1.3 if cfg.TEST_MULTISCALE == [1.] else 800
 
     cfg.MODEL_FLOAT16_MATCHING = args.float16
-    if 'cfbip' in cfg.MODEL_MODULE:
+    if 'RPCMp' in cfg.MODEL_MODULE:
         cfg.TEST_GLOBAL_ATROUS_RATE = [args.global_atrous_rate, 1, 1]
     else:
         cfg.TEST_GLOBAL_ATROUS_RATE = args.global_atrous_rate

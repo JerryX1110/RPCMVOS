@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\configs",
+    "\\networks",
+    "\\networks\\engine",
+    "\\networks\\layers",
+    "\\networks\\rpcm",
+    "\\tools"
+  ],
+  "SelectedNode": "\\networks\\engine\\eval_manager.py",
+  "PreviewInSolutionExplorer": false
+}

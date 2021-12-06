@@ -13,9 +13,9 @@ def main_worker(gpu, cfg):
 
 def main():
     import argparse
-    parser = argparse.ArgumentParser(description="Train CFBI")
+    parser = argparse.ArgumentParser(description="Train RPCM")
     parser.add_argument('--exp_name', type=str, default='')
-    parser.add_argument('--config', type=str, default='configs.resnet101_cfbi')
+    parser.add_argument('--config', type=str, default='')
 
     parser.add_argument('--start_gpu', type=int, default=0)
     parser.add_argument('--gpu_num', type=int, default=-1)
@@ -61,7 +61,7 @@ def main():
         cfg.TRAIN_START_STEP = args.start_step
 
     cfg.MODEL_FLOAT16_MATCHING = args.float16
-    if 'cfbip' in cfg.MODEL_MODULE:
+    if 'RPCMp' in cfg.MODEL_MODULE:
         cfg.TRAIN_GLOBAL_ATROUS_RATE = [args.global_atrous_rate, 1, 1]
     else:
         cfg.TRAIN_GLOBAL_ATROUS_RATE = args.global_atrous_rate
