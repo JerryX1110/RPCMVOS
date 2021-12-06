@@ -93,7 +93,7 @@ class Configuration():
         self.TRAIN_TOP_K_PERCENT_PIXELS = 0.15
         self.TRAIN_HARD_MINING_STEP = self.TRAIN_TOTAL_STEPS / 2
         self.TRAIN_CLIP_GRAD_NORM = 5.
-        self.TRAIN_SAVE_STEP = 1000
+        self.TRAIN_SAVE_STEP = 20000
         self.TRAIN_MAX_KEEP_CKPT = 8
         self.TRAIN_RESUME = False
         self.TRAIN_RESUME_CKPT = None
