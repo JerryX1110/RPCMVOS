@@ -30,8 +30,8 @@ class Evaluator(object):
             freeze_bn=cfg.MODEL_FREEZE_BN).cuda(self.gpu)
 
         self.print_log('Build VOS model.')
-        CFBI = importlib.import_module(cfg.MODEL_MODULE)
-        self.model = CFBI.get_module()(
+        RPCM = importlib.import_module(cfg.MODEL_MODULE)
+        self.model = RPCM.get_module()(
             cfg,
             self.feature_extracter).cuda(self.gpu)
 
