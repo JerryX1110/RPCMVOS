@@ -36,7 +36,7 @@ Firstly, the author would like to thank Rex, who is the author of Great **STCN**
 Also, this work is largely built upon the codebase of **CFBI**. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
 
 ## Related impressive works in VOS
-**AOT**:<https://github.com/z-x-yang/AOT>
+**AOT**: <https://github.com/z-x-yang/AOT>
 
 **STCN**: <https://github.com/hkchengrex/STCN>
 
@@ -48,3 +48,4 @@ Also, this work is largely built upon the codebase of **CFBI**. Thanks for the a
 
 **CFBI**: <https://github.com/z-x-yang/CFBI>
 
+**STM**: <https://github.com/seoungwugoh/STM>
