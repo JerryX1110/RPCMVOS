@@ -5,6 +5,8 @@
 
 Preview version paper of this work is available at: <https://arxiv.org/abs/2112.02853>
 
+Qualitative results and comparisons with previous SOTAs are available at: <https://youtu.be/X6BsS3t3wnc>
+
 This repo is a preview version. More details will be added later.
 
 ## Abstract
@@ -77,3 +79,6 @@ Also, this work is largely built upon the codebase of CFBI. Thanks for the autho
 **DAVIS**: <https://davischallenge.org/>
 
 **YouTube-VOS**: <https://youtube-vos.org/>
+
+## Welcome to comments and discussions!!
+Xiaohao Xu: <xxh11102019@outlook.com>
