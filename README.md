@@ -3,6 +3,8 @@
 
 **AAAI 2022**
 
+![Picture1](https://user-images.githubusercontent.com/65257938/145016835-3c4be820-c55d-4eb4-b7f5-b8a012ee0f8c.png)
+
 Preview version paper of this work is available at: <https://arxiv.org/abs/2112.02853>
 
 Qualitative results and comparisons with previous SOTAs are available at: <https://youtu.be/X6BsS3t3wnc>
