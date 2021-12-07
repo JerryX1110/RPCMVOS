@@ -3,7 +3,7 @@
 
 **AAAI 2022**
 
-**This repo is a preview version. More details will be added later.**
+This repo is a preview version. More details will be added later.
 
 ## Abstract
 **Error propagation** is a general but crucial problem in **online semi-supervised video object segmentation**. We aim to **suppress error propagation through a correction mechanism with high reliability**. 
