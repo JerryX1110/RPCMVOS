@@ -22,6 +22,17 @@ This docker image may contain some redundent packages. A more light-weight one w
     
     docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
     
+## Citation
+If you find this work is useful for your research, please consider citing:
+    @misc{xu2021reliable,
+      title={Reliable Propagation-Correction Modulation for Video Object Segmentation}, 
+      author={Xiaohao Xu and Jinglu Wang and Xiao Li and Yan Lu},
+      year={2021},
+      eprint={2112.02853},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+    }
+    
 
 ## Credit
 
@@ -33,22 +44,22 @@ This docker image may contain some redundent packages. A more light-weight one w
 
 ## Acknowledgement
 Firstly, the author would like to thank Rex for his insightful viewpoints about VOS during e-mail discussion!
-Also, this work is largely built upon the codebase of **CFBI**. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
+Also, this work is largely built upon the codebase of CFBI. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
 
 ## Related impressive works in VOS
-**AOT**: <https://github.com/z-x-yang/AOT>
+**AOT [NeurIPS 2021]**: <https://github.com/z-x-yang/AOT>
 
-**STCN**: <https://github.com/hkchengrex/STCN>
+**STCN [NeurIPS 2021]**: <https://github.com/hkchengrex/STCN>
 
-**MiVOS**: <https://github.com/hkchengrex/MiVOS>
+**MiVOS [CVPR 2021]**: <https://github.com/hkchengrex/MiVOS>
 
-**SSTVOS**: <https://github.com/dukebw/SSTVOS>
+**SSTVOS [CVPR 2021]**: <https://github.com/dukebw/SSTVOS>
 
-**GraphMemVOS**: <https://github.com/carrierlxk/GraphMemVOS>
+**GraphMemVOS [ECCV 2020]**: <https://github.com/carrierlxk/GraphMemVOS>
 
-**CFBI**: <https://github.com/z-x-yang/CFBI>
+**CFBI [ECCV 2020]**: <https://github.com/z-x-yang/CFBI>
 
-**STM**: <https://github.com/seoungwugoh/STM>
+**STM [ICCV 2019]**: <https://github.com/seoungwugoh/STM>
 
 ## Useful websites for VOS
 **The 1st Large-scale Video Object Segmentation Challenge**: <https://competitions.codalab.org/competitions/19544#learn_the_details>
