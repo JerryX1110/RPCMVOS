@@ -6,7 +6,7 @@ AAAI 2022
 **This repo is a preview version. More details will be added later.**
 
 ## Credit
-deeplab: <https://github.com/VainF/DeepLabV3Plus-Pytorch>
+Deeplab: <https://github.com/VainF/DeepLabV3Plus-Pytorch>
 
 CFBI: <https://github.com/z-x-yang/CFBI>
 
