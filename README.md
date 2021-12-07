@@ -30,3 +30,7 @@ CFBI: <https://github.com/z-x-yang/CFBI>
 Deeplab: <https://github.com/VainF/DeepLabV3Plus-Pytorch>
 
 GCT: <https://github.com/z-x-yang/GCT>
+
+## Acknowledgement
+Firstly, the author would like to thank Rex, who is the author of Great **STCN**, for his insightful viewpoints about VOS during e-mail discussion!
+Also, this work is largely built upon the codebase of **CFBI**. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
