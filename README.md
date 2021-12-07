@@ -2,6 +2,7 @@
 **Xiaohao Xu, Jinglu Wang, Xiao Li, Yan Lu**
 
 **AAAI 2022**
+Preview version of paper is available at: <https://arxiv.org/abs/2112.02853>
 
 This repo is a preview version. More details will be added later.
 
@@ -24,6 +25,8 @@ This docker image may contain some redundent packages. A more light-weight one w
     
 ## Citation
 If you find this work is useful for your research, please consider citing:
+
+    
     @misc{xu2021reliable,
       title={Reliable Propagation-Correction Modulation for Video Object Segmentation}, 
       author={Xiaohao Xu and Jinglu Wang and Xiao Li and Yan Lu},
@@ -32,6 +35,8 @@ If you find this work is useful for your research, please consider citing:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
     }
+    
+    
     
 
 ## Credit
