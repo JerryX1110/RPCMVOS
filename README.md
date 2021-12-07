@@ -25,11 +25,11 @@ This docker image may contain some redundent packages. A more light-weight one w
 
 ## Credit
 
-CFBI: <https://github.com/z-x-yang/CFBI>
+**CFBI**: <https://github.com/z-x-yang/CFBI>
 
-Deeplab: <https://github.com/VainF/DeepLabV3Plus-Pytorch>
+**Deeplab**: <https://github.com/VainF/DeepLabV3Plus-Pytorch>
 
-GCT: <https://github.com/z-x-yang/GCT>
+**GCT**: <https://github.com/z-x-yang/GCT>
 
 ## Acknowledgement
 Firstly, the author would like to thank Rex for his insightful viewpoints about VOS during e-mail discussion!
