@@ -68,6 +68,8 @@ Also, this work is largely built upon the codebase of CFBI. Thanks for the autho
 
 **STM [ICCV 2019]**: <https://github.com/seoungwugoh/STM>
 
+**FEELVOS [CVPR 2019]**: <https://github.com/kim-younghan/FEELVOS>
+
 ## Useful websites for VOS
 **The 1st Large-scale Video Object Segmentation Challenge**: <https://competitions.codalab.org/competitions/19544#learn_the_details>
 
