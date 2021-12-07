@@ -1,7 +1,7 @@
 # Reliable Propagation-Correction Modulation for Video Object Segmentation (AAAI22)
-Xiaohao Xu, Jinglu Wang, Xiao Li, Yan Lu
+**Xiaohao Xu, Jinglu Wang, Xiao Li, Yan Lu**
 
-AAAI 2022
+**AAAI 2022**
 
 **This repo is a preview version. More details will be added later.**
 
