@@ -2,7 +2,8 @@
 **Xiaohao Xu, Jinglu Wang, Xiao Li, Yan Lu**
 
 **AAAI 2022**
-Preview version of paper is available at: <https://arxiv.org/abs/2112.02853>
+
+Preview version paper of this work is available at: <https://arxiv.org/abs/2112.02853>
 
 This repo is a preview version. More details will be added later.
 
