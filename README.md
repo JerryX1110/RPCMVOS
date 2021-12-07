@@ -10,9 +10,10 @@ Error propagation is a general but crucial problem in online semi-supervised vid
 
 ## Requirements
 This docker image may contain some redundent packages. I will generate a more light-weight docker image later.
-"""
-docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
-"""
+
+    ```python
+    docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
+    ```
 
 ## Credit
 Deeplab: <https://github.com/VainF/DeepLabV3Plus-Pytorch>
