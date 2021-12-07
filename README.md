@@ -49,3 +49,14 @@ Also, this work is largely built upon the codebase of **CFBI**. Thanks for the a
 **CFBI**: <https://github.com/z-x-yang/CFBI>
 
 **STM**: <https://github.com/seoungwugoh/STM>
+
+## Useful websites for VOS
+**The 1st Large-scale Video Object Segmentation Challenge**: <https://competitions.codalab.org/competitions/19544#learn_the_details>
+
+**The 2nd Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation**: <https://competitions.codalab.org/competitions/20127#learn_the_details>
+
+**The Semi-Supervised DAVIS Challenge on Video Object Segmentation @ CVPR 2020**: <https://competitions.codalab.org/competitions/20516#participate-submit_results>
+
+**DAVIS**: <https://davischallenge.org/>
+
+**YouTube-VOS**: <https://youtube-vos.org/>
