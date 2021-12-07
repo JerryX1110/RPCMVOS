@@ -81,6 +81,6 @@ Also, this work is largely built upon the codebase of CFBI. Thanks for the autho
 
 **YouTube-VOS**: <https://youtube-vos.org/>
 
-**Papers with code: Semi-VOS**: <https://paperswithcode.com/task/semi-supervised-video-object-segmentation>
+**Papers with code for Semi-VOS**: <https://paperswithcode.com/task/semi-supervised-video-object-segmentation>
 ## Welcome to comments and discussions!!
 Xiaohao Xu: <xxh11102019@outlook.com>
