@@ -12,7 +12,7 @@ Error propagation is a general but crucial problem in online semi-supervised vid
 This docker image may contain some redundent packages. I will generate a more light-weight docker image later.
 
     
-    docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
+    **docker image**: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
     
 
 ## Credit
