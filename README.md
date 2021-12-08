@@ -56,7 +56,7 @@ If you find this work is useful for your research, please consider citing:
 
 ## Acknowledgement
 Firstly, the author would like to thank Rex for his insightful viewpoints about VOS during e-mail discussion!
-Also, this work is largely built upon the codebase of CFBI. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
+Also, this work is built upon CFBI. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
 
 ## Related impressive works in VOS
 **AOT [NeurIPS 2021]**: <https://github.com/z-x-yang/AOT>
