@@ -6,7 +6,7 @@ Preview version paper of this work is available at: <https://arxiv.org/abs/2112.
 
 Qualitative results and comparisons with previous SOTAs are available at: <https://youtu.be/X6BsS3t3wnc>
 
-This repo is a preview version. More details will be added later.
+**This repo is a preview version. More details will be added later.**
 
 ## Abstract
 **Error propagation** is a general but crucial problem in **online semi-supervised video object segmentation**. We aim to **suppress error propagation through a correction mechanism with high reliability**. 
