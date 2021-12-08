@@ -25,6 +25,14 @@ This docker image may contain some redundent packages. A more light-weight one w
     
     docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
     
+
+    
+## Dataset Preparation
+    YouTube & DAVIS 
+## Training
+
+## Inference
+
 ## Citation
 If you find this work is useful for your research, please consider citing:
 
@@ -38,9 +46,6 @@ If you find this work is useful for your research, please consider citing:
       primaryClass={cs.CV}
     }
     
-    
-    
-
 ## Credit
 
 **CFBI**: <https://github.com/z-x-yang/CFBI>
