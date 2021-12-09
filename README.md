@@ -89,3 +89,13 @@ Also, this work is built upon CFBI. Thanks for the author of CFBI to release suc
 **Papers with code for Semi-VOS**: <https://paperswithcode.com/task/semi-supervised-video-object-segmentation>
 ## Welcome to comments and discussions!!
 Xiaohao Xu: <xxh11102019@outlook.com>
+## Q&A
+Some Q&As about the project from the readers are listed as follows.
+
+**Q1:I have noticed that the performance in youtubevos is very good, and I wonder what you think might be the reason?**
+
+**Error propagation** is a critical problem for most of the models in VOS as well as other tracking-related fileds. The main reason for the inprovement of our model is due to some designs to suppress error from propagation. Specificly, we propose an assembly of propagation and correction modulators to fully leverage the reference guidance during propagation. Apart from the reliable guidance from the reference, we also consider leveraging the reliable cues according to the historical predictions. To be specific, we use Shannon entropy to evaluate the prediction uncertainty for further reliable object cues augmentation.
+
+**Q2:When you were training, did you randomly cut the images to 465x465, consistent with CFBI?**
+
+Yes. We mainly follow the training protocal used in CFBI. (Based on some observations, I think certain data augmentation methods may lead to some bias in training samples, which may futher lead to a gap between training and inference and uncertainty in prediction. However, I havn't verified this viewpoint concisely.)
