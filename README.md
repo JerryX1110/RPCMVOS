@@ -94,7 +94,7 @@ Some Q&As about the project from the readers are listed as follows.
 
 **Q1:I have noticed that the performance in youtubevos is very good, and I wonder what you think might be the reason?**
 
-**Error propagation** is a critical problem for most of the models in VOS as well as other tracking-related fileds. The main reason for the inprovement of our model is due to some designs to suppress error from propagation. Specificly, we propose an assembly of propagation and correction modulators to fully leverage the reference guidance during propagation. Apart from the reliable guidance from the reference, we also consider leveraging the reliable cues according to the historical predictions. To be specific, we use Shannon entropy to evaluate the prediction uncertainty for further reliable object cues augmentation.
+**Error propagation** is a critical problem for most of the models in VOS as well as other tracking-related fileds. The main reason for the inprovement of our model is due to some designs to suppress error from propagation. Specificly, we propose an assembly of propagation and correction modulators to fully leverage the reference guidance during propagation. Apart from the reliable guidance from the reference, we also consider leveraging the reliable cues according to the historical predictions. To be specific, we use Shannon entropy as a measure of prediction uncertainty for further reliable object cues augmentation.
 
 **Q2:When you were training, did you randomly cut the images to 465x465, consistent with CFBI?**
 
