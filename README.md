@@ -98,4 +98,4 @@ Some Q&As about the project from the readers are listed as follows.
 
 **Q2:When you were training, did you randomly cut the images to 465x465, consistent with CFBI?**
 
-Yes. We mainly follow the training protocal used in CFBI. (Based on some observations, I think certain data augmentation methods may lead to some bias in training samples, which may futher lead to a gap between training and inference and uncertainty in prediction. However, I havn't verified this viewpoint concisely.)
+Yes. We mainly follow the training protocal used in CFBI. (Based on some observations, I think certain data augmentation methods may lead to some bias in training samples, which may futher lead to a gap between training and inference. However, I havn't verified this viewpoint concisely.)
