@@ -38,11 +38,11 @@ Training for YouTube-VOS:
 * More details will be added soon.
 
 ## Inference
-Using reliable object proxy augmentation:
+Using **r**eliable object **p**roxy **a**ugmentation (RPA)
 
     sh ../scripts/ytb_eval_with_RPA.sh
     
-Without Using reliable object proxy augmentation:
+Without using **r**eliable object **p**roxy **a**ugmentation (RPA):
 
     sh ../scripts/ytb_eval_without_RPA.sh
     
