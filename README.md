@@ -30,7 +30,12 @@ This docker image may contain some redundent packages. A more light-weight one w
 ## Dataset Preparation
     YouTube & DAVIS 
 ## Training
+Training for YouTube-VOS:
     sh ../scripts/ytb_train.sh
+
+* Notice that the some training parameters need to be changed according to your hardware environment, such as the interval to save a checkpoint.
+* More details will be added soon.
+
 ## Inference
 Using reliable object proxy augmentation:
 
@@ -40,6 +45,8 @@ Without Using reliable object proxy augmentation:
 
     sh ../scripts/ytb_eval_without_RPA.sh
     
+* More details will be added soon.
+
 ## Citation
 If you find this work is useful for your research, please consider citing:
 
