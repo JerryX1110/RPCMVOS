@@ -21,7 +21,8 @@ Our model achieves **state-of-the-art performance on YouTube-VOS18/19 and DAVIS1
 
 ## Requirements
 * Python3
-* pytorch >= 1.4.0 and torchvision
+* pytorch >= 1.4.0 
+* torchvision
 * opencv-python
 * Pillow
 
