@@ -54,10 +54,6 @@ If you find this work is useful for your research, please consider citing:
 
 **GCT**: <https://github.com/z-x-yang/GCT>
 
-## Acknowledgement
-Firstly, the author would like to thank Rex for his insightful viewpoints about VOS during e-mail discussion!
-Also, this work is built upon CFBI. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
-
 ## Related impressive works in VOS
 **AOT [NeurIPS 2021]**: <https://github.com/z-x-yang/AOT>
 
@@ -87,8 +83,7 @@ Also, this work is built upon CFBI. Thanks for the author of CFBI to release suc
 **YouTube-VOS**: <https://youtube-vos.org/>
 
 **Papers with code for Semi-VOS**: <https://paperswithcode.com/task/semi-supervised-video-object-segmentation>
-## Welcome to comments and discussions!!
-Xiaohao Xu: <xxh11102019@outlook.com>
+
 ## Q&A
 Some Q&As about the project from the readers are listed as follows.
 
@@ -99,6 +94,13 @@ Some Q&As about the project from the readers are listed as follows.
 **Q2:When you were training, did you randomly cut the images to 465x465, consistent with CFBI?**
 
 Yes. We mainly follow the training protocal used in CFBI. (Based on some observations, I think certain data augmentation methods may lead to some bias in training samples, which may futher lead to a gap between training and inference. However, I havn't verified this viewpoint concisely.)
+
+## Acknowledgement
+Firstly, the author would like to thank Rex for his insightful viewpoints about VOS during e-mail discussion!
+Also, this work is built upon CFBI. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
+
+## Welcome to comments and discussions!!
+Xiaohao Xu: <xxh11102019@outlook.com>
 
 ## License
 This project is released under the Mit license. See [LICENSE](LICENSE) for additional details.
