@@ -31,6 +31,7 @@ This docker image may contain some redundent packages. A more light-weight one w
     YouTube & DAVIS 
 ## Training
 Training for YouTube-VOS:
+
     sh ../scripts/ytb_train.sh
 
 * Notice that the some training parameters need to be changed according to your hardware environment, such as the interval to save a checkpoint.
