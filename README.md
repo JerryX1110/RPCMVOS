@@ -20,7 +20,12 @@ Although the reference frame with the ground truth label provides reliable cues,
 Our model achieves **state-of-the-art performance on YouTube-VOS18/19 and DAVIS17-Val/Test** benchmarks. Extensive experiments demonstrate that the correction mechanism provides considerable performance gain by fully utilizing reliable guidance.
 
 ## Requirements
-This docker image may contain some redundent packages. A more light-weight one will be generated later.
+Python3
+pytorch >= 1.4.0 and torchvision
+opencv-python
+Pillow
+
+* You can also use the docker image below to set up your env directly. However, this docker image may contain some redundent packages. A more light-weight one will be generated later.
 
     
     docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
