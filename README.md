@@ -120,7 +120,7 @@ If you find this work is useful for your research, please consider citing:
 
 **CFBI [ECCV 2020]**: <https://github.com/z-x-yang/CFBI>
 
-**FRTM-VOS**: <https://github.com/andr345/frtm-vos>
+**FRTM-VOS [CVPR 2020]**: <https://github.com/andr345/frtm-vos>
 
 **STM [ICCV 2019]**: <https://github.com/seoungwugoh/STM>
 
