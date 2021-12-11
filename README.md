@@ -52,7 +52,7 @@ You can also use the docker image below to set up your env directly. However, th
 
 * pretrained weights for the backbone
 
-  resnet101-deeplabv3p:<https://drive.google.com/file/d/1H3yUShfPqzxSt-nHJP-zYSbbu2o_RQQu/view>
+  [resnet101-deeplabv3p](https://drive.google.com/file/d/1H3yUShfPqzxSt-nHJP-zYSbbu2o_RQQu/view)
 
 
 ## Training
