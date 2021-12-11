@@ -102,13 +102,13 @@ If you find this work is useful for your research, please consider citing:
 
 **AOT [NeurIPS 2021]**: <https://github.com/z-x-yang/AOT>
 
+**STCN [NeurIPS 2021]**: <https://github.com/hkchengrex/STCN>
+
 **JOINT [ICCV 2021]**: <https://github.com/maoyunyao/JOINT>
 
 **HMMN [ICCV 2021]**: <https://github.com/Hongje/HMMN>
 
 **DMN-AOA [ICCV 2021]**: <https://github.com/liang4sx/DMN-AOA>
-
-**STCN [NeurIPS 2021]**: <https://github.com/hkchengrex/STCN>
 
 **MiVOS [CVPR 2021]**: <https://github.com/hkchengrex/MiVOS>
 
