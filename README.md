@@ -51,7 +51,10 @@ You can also use the docker image below to set up your env directly. However, th
         [datasets/DAVIS](datasets/DAVIS): [TrainVal](https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.zip) (480p) contains both the training and validation split. [Test-Dev](https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-test-dev-480p.zip) (480p) contains the Test-dev split. The [full-resolution version](https://davischallenge.org/davis2017/code.html) is also supported for training and evaluation but not required.
 
 * pretrained weights for the backbone
-resnet101-deeplabv3p:<>
+
+  resnet101-deeplabv3p:<https://drive.google.com/file/d/1H3yUShfPqzxSt-nHJP-zYSbbu2o_RQQu/view>
+
+
 ## Training
 Training for YouTube-VOS:
 
