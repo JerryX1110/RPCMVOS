@@ -116,11 +116,15 @@ If you find this work is useful for your research, please consider citing:
 
 **GraphMemVOS [ECCV 2020]**: <https://github.com/carrierlxk/GraphMemVOS>
 
+**AFB-URR [NeurIPS 2020]**: <https://github.com/xmlyqing00/AFB-URR>
+
 **CFBI [ECCV 2020]**: <https://github.com/z-x-yang/CFBI>
 
 **STM [ICCV 2019]**: <https://github.com/seoungwugoh/STM>
 
 **FEELVOS [CVPR 2019]**: <https://github.com/kim-younghan/FEELVOS>
+
+(The list may be incomplete, feel free to contact me by pulling a issue and I'll add them on!)
 
 ## Useful websites for VOS
 **The 1st Large-scale Video Object Segmentation Challenge**: <https://competitions.codalab.org/competitions/19544#learn_the_details>
