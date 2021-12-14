@@ -11,12 +11,9 @@ Qualitative results and comparisons with previous SOTAs are available at: <https
 ```diff
 - 2021.12.14: **Due to some policies in the company, the code has to be withdrawn now and will be released again after review.**
 ```
-
 ---
 
-'''
 
-'''
 
 ## Abstract
 **Error propagation** is a general but crucial problem in **online semi-supervised video object segmentation**. We aim to **suppress error propagation through a correction mechanism with high reliability**. 
