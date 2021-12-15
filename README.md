@@ -85,7 +85,7 @@ Without using **r**eliable object **p**roxy **a**ugmentation (RPA):
 
 ## Limitation & Directions for further exploration in VOS!
 
-Although the numbers on some semi-VOS benchmarks are somehow extremely high, many problems still remain for further exploration and solving.
+Although the numbers on some semi-VOS benchmarks are somehow extremely high, many problems still remain for further exploration.
 
 I think those who take a look at this repo are likely to be researching in the field related to segmentation or tracking. 
 
