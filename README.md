@@ -89,7 +89,10 @@ Although the numbers on some semi-VOS benchmarks are somehow extremely high, man
 
 I think those who take a look at this repo are likely to be researching in the field related to segmentation or tracking. 
 
-So I would like to share some directions to explore in VOS from my point of view here and hopefully to wait and see some nice solutions in the near future!
+So I would like to share some directions to explore in VOS from my point of view here. Hopefully, I can see some nice solutions in the near future!
+
+* What about leveraging the propagation-then-correction mechanism in other tracking tasks such as MOT and pose tracking?
+* How about using a learning-based method to measure the prediction uncertainty?
 
 (to be continued...)
 
