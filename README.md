@@ -9,7 +9,7 @@ Qualitative results and comparisons with previous SOTAs are available at: <https
 **This repo is a preview version. More details will be added later. Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!**
 
 ```diff
-- 2021.12.14: Due to some policies in the company, the partial released code has to be withdrawn now. Stay tuned and it will be released again after review!
+- 2021.12.14: Due to some policies in the company, the previewed-version code without checking has to be withdrawn now. Stay tuned and it will be released again after review!
 ```
 ---
 
