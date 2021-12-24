@@ -9,7 +9,7 @@ Qualitative results and comparisons with previous SOTAs are available at: <https
 **This repo is a preview version. More details will be added later. Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!**
 
 ```diff
-- 2021.12.24: Precomputed Results on YouTube18/19 and DAVIS17 Val/Test-dev are available on both GoogleDrive and BaiduDisk! 
+- 2021.12.24: Precomputed Results on YouTube-VOS18/19 and DAVIS17 Val/Test-dev are available on both GoogleDrive and BaiduDisk! 
 - 2021.12.14: Due to some policies in the company, the previewed-version code without checking has to be withdrawn now. Stay tuned and it will be released again after review!
 ```
 ---
@@ -85,7 +85,7 @@ Without using **r**eliable object **p**roxy **a**ugmentation (RPA):
 
 ## Precomputed Results
 
-Precomputed results on both YouTube18/19 and DAVIS17 Val/Test-dev are available on [Google Drive](https://drive.google.com/drive/folders/1RaffnMvmQF4Nct30UBXqwrfOXTZ8rvQf?usp=sharing) and [Baidu Disk](https://pan.baidu.com/s/1WqB-SsbT7W-a6DbLIz8Lzw) （password for Baidu Disk is 6666）.
+Precomputed results on both YouTube-VOS18/19 and DAVIS17 Val/Test-dev are available on [Google Drive](https://drive.google.com/drive/folders/1RaffnMvmQF4Nct30UBXqwrfOXTZ8rvQf?usp=sharing) and [Baidu Disk](https://pan.baidu.com/s/1WqB-SsbT7W-a6DbLIz8Lzw) (BaiduDisk password:6666).
 
 ## Limitation & Directions for further exploration in VOS!
 
