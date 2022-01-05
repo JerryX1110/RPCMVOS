@@ -2,9 +2,9 @@
 
 ![Picture1](https://user-images.githubusercontent.com/65257938/145016835-3c4be820-c55d-4eb4-b7f5-b8a012ee0f8c.png)
 
-Preview version paper of this work is available at: <https://arxiv.org/abs/2112.02853>
+Preview version paper of this work is available at [Arxiv] (https://arxiv.org/abs/2112.02853) 
 
-Qualitative results and comparisons with previous SOTAs are available at: <https://youtu.be/X6BsS3t3wnc>
+Qualitative results and comparisons with previous SOTAs are available at both [YouTube](https://youtu.be/X6BsS3t3wnc) and [Bilibili](https://www.bilibili.com/video/BV1pr4y1D7TQ?spm_id_from=333.999.0.0). [Thanks to someone (I don't know) who transports it to bilibili😀.]
 
 **This repo is a preview version. More details will be added later. Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!**
 
