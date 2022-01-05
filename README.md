@@ -97,6 +97,10 @@ So I would like to share some directions to explore in VOS from my point of view
 
 * What about leveraging the propagation-then-correction mechanism in other tracking tasks such as MOT and pose tracking?
 * How about using a learning-based method to measure the prediction uncertainty?
+* How to tackle VOS in long-term videos? Maybe due to lack of a good dataset for long-term VOS evaluation, this problem is still a hard nut to crack.
+* How to update the memory pool containing historical infomation during propagation? 
+* How to judge whether some information is useful for futher frames or not?
+* Will some data augmentations used in training lead to some bias in final prediction?
 
 (to be continued...)
 
