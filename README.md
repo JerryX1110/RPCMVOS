@@ -184,7 +184,7 @@ Yes. We mainly follow the training protocal used in CFBI. (Based on some observa
 
 ## Acknowledgement ❤️
 Firstly, the author would like to thank Rex for his insightful viewpoints about VOS during e-mail discussion!
-Also, this work is built upon CFBI. Thanks for the author of CFBI to release such a wonderful code repo for further work to build upon!
+Also, this work is built upon CFBI. Thanks to the author of CFBI to release such a wonderful code repo for further work to build upon!
 
 ## Welcome to comments and discussions!!
 Xiaohao Xu: <xxh11102019@outlook.com>
