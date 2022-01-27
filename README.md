@@ -110,14 +110,12 @@ So I would like to share some directions to explore in VOS from my point of view
 If you find this work is useful for your research, please consider citing:
 
     
-    @misc{xu2021reliable,
-      title={Reliable Propagation-Correction Modulation for Video Object Segmentation}, 
-      author={Xiaohao Xu and Jinglu Wang and Xiao Li and Yan Lu},
-      year={2021},
-      eprint={2112.02853},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-    }
+@article{xu2021reliable,
+  title={Reliable Propagation-Correction Modulation for Video Object Segmentation},
+  author={Xu, Xiaohao and Wang, Jinglu and Li, Xiao and Lu, Yan},
+  journal={arXiv preprint arXiv:2112.02853},
+  year={2021}
+}
     
 ## Credit
 
