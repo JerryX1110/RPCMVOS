@@ -1,4 +1,4 @@
-# Reliable Propagation-Correction Modulation for Video Object Segmentation (AAAI22)
+# Reliable Propagation-Correction Modulation for Video Object Segmentation (AAAI22_Oral)
 
 ![Picture1](https://user-images.githubusercontent.com/65257938/145016835-3c4be820-c55d-4eb4-b7f5-b8a012ee0f8c.png)
 
@@ -11,6 +11,7 @@ Qualitative results and comparisons with previous SOTAs are available at both [Y
 **This repo is a preview version. More details will be added later. Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!**
 
 ```diff
+- 2022.2.16 😀:  Our paper has been selected as **Oral Presentation** in AAAI22! (Oral Acceptance Rate is about 4.5% this year (15% x 30%))
 - 2021.12.25 🎅🎄: Precomputed Results on YouTube-VOS18/19 and DAVIS17 Val/Test-dev are available on both GoogleDrive and BaiduDisk! 
 - 2021.12.14: Due to some policies in the company, the previewed-version code without checking has to be withdrawn now. Stay tuned and it will be released again after review!
 ```
