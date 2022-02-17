@@ -1,4 +1,4 @@
-# Reliable Propagation-Correction Modulation for Video Object Segmentation (AAAI22_Oral)
+# Reliable Propagation-Correction Modulation for Video Object Segmentation (AAAI22 Oral)
 
 ![Picture1](https://user-images.githubusercontent.com/65257938/145016835-3c4be820-c55d-4eb4-b7f5-b8a012ee0f8c.png)
 
