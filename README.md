@@ -4,6 +4,8 @@
 
 Preview version paper of this work is available at [Arxiv](https://arxiv.org/abs/2112.02853) 
 
+AAAI [long paper presentation ppt](https://docs.google.com/presentation/d/1szmHc-2s1RpEfxr5cCbIRys85rpF85CR/edit?usp=sharing&ouid=113055027221294032292&rtpof=true&sd=true), [short one-minute paper presentation ppt](https://docs.google.com/presentation/d/1mv5xCWJQ0G5nVsrdQ5mY78RTb8HYlVMT/edit?usp=sharing&ouid=113055027221294032292&rtpof=true&sd=true), and the [poster](https://drive.google.com/file/d/1xKf0MvxxTqgbDGCBOkRSKdAuix0mVGOz/view?usp=sharing) are avavilable!
+
 Qualitative results and comparisons with previous SOTAs are available at both [YouTube](https://youtu.be/X6BsS3t3wnc) and [Bilibili](https://www.bilibili.com/video/BV1pr4y1D7TQ?spm_id_from=333.999.0.0). 
 
 [Thanks to someone (I don't know) who transports the video to bilibili😀.]
@@ -11,6 +13,7 @@ Qualitative results and comparisons with previous SOTAs are available at both [Y
 **This repo is a preview version. More details will be added later. Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!**
 
 ```diff
+- 2022.3.6: Our presentation PPT and Poster for AAAI22 are available now on GoogleDrive!
 - 2022.2.16 😀:  Our paper has been selected as **Oral Presentation** in AAAI22! (Oral Acceptance Rate is about 4.5% this year (15% x 30%))
 - 2021.12.25 🎅🎄: Precomputed Results on YouTube-VOS18/19 and DAVIS17 Val/Test-dev are available on both GoogleDrive and BaiduDisk! 
 - 2021.12.14: Due to some policies in the company, the previewed-version code without checking has to be withdrawn now. Stay tuned and it will be released again after review!
