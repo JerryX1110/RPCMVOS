@@ -40,11 +40,13 @@ Our model achieves **state-of-the-art performance on YouTube-VOS18/19 and DAVIS1
 * opencv-python
 * Pillow
 
-You can also use the docker image below to set up your env directly. However, this docker image may contain some redundent packages. A more light-weight one will be added later.
+You can also use the docker image below to set up your env directly. However, this docker image may contain some redundent packages.
 
 ```latex
 docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
 ```
+
+A more light-weight can be created by modified the [Dockerfile](https://github.com/JerryX1110/RPCMVOS/blob/main/Dockerfile) provided.
 
 ## Preparation
 * Datasets
