@@ -47,7 +47,7 @@ You can also use the docker image below to set up your env directly. However, th
 docker image: xxiaoh/vos:10.1-cudnn7-torch1.4_v3
 ```
 
-A more light-weight can be created by modified the [Dockerfile](https://github.com/JerryX1110/RPCMVOS/blob/main/Dockerfile) provided.
+A more light-weight version can be created by modified the [Dockerfile](https://github.com/JerryX1110/RPCMVOS/blob/main/Dockerfile) provided.
 
 ## Preparation
 * Datasets
