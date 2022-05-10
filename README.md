@@ -137,7 +137,7 @@ If you find this work is useful for your research, please consider citing:
 ## Related impressive works in VOS
 **Semisupervised video object segmentation repos:**
 
-***SWEM [CVPR 2022]**:<https://tianyu-yang.com/resources/swem.pdf>
+**SWEM [CVPR 2022]**:<https://tianyu-yang.com/resources/swem.pdf>
 
 **RDE [CVPR 2022]**:<https://arxiv.org/pdf/2205.03761.pdf>
 
