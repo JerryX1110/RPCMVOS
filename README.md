@@ -134,8 +134,8 @@ If you find this work is useful for your research, please consider citing:
 
 **GCT**: <https://github.com/z-x-yang/GCT>
 
-## Related impressive works in VOS
-**Semisupervised video object segmentation repos:**
+## Related Works in VOS
+**Semisupervised video object segmentation repo/paper link:**
 
 **SWEM [CVPR 2022]**:<https://tianyu-yang.com/resources/swem.pdf>
 
