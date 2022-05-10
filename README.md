@@ -137,6 +137,8 @@ If you find this work is useful for your research, please consider citing:
 ## Related impressive works in VOS
 **Semisupervised video object segmentation repos:**
 
+* **RDE [CVPR 2022]**:<https://arxiv.org/pdf/2205.03761.pdf>
+
 **COVOS [CVPR 2022]** :<https://github.com/kai422/CoVOS>
 
 **AOT [NeurIPS 2021]**: <https://github.com/z-x-yang/AOT>
