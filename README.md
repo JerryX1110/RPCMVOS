@@ -118,12 +118,15 @@ So I would like to share some directions to explore in VOS from my point of view
 If you find this work is useful for your research, please consider citing:
 
  ```latex
-   @article{xu2021reliable,
-     title={Reliable Propagation-Correction Modulation for Video Object Segmentation},
-     author={Xu, Xiaohao and Wang, Jinglu and Li, Xiao and Lu, Yan},
-     journal={arXiv preprint arXiv:2112.02853},
-     year={2021}
-   }
+@inproceedings{xu2022reliable,
+  title={Reliable propagation-correction modulation for video object segmentation},
+  author={Xu, Xiaohao and Wang, Jinglu and Li, Xiao and Lu, Yan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={3},
+  pages={2946--2954},
+  year={2022}
+}
 ```  
 
     
