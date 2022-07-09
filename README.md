@@ -13,6 +13,7 @@ Qualitative results and comparisons with previous SOTAs are available at both [Y
 **This repo is a preview version. More details will be added later. Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!**
 
 ```diff
+- 2022.7.9: Our code is re-released now! 
 - 2022.3.9: Dockerfile is added for easy env setup and modification.
 - 2022.3.6: Our presentation PPT and Poster for AAAI22 are available now on GoogleDrive!
 - 2022.2.16 😀:  Our paper has been selected as **Oral Presentation** in AAAI22! (Oral Acceptance Rate is about 4.5% this year (15% x 30%))
