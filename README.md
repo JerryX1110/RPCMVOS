@@ -115,7 +115,7 @@ So I would like to share some directions to explore in VOS from my point of view
 (to be continued...)
 
 ## Citation
-If you find this work is useful for your research, please consider citing:
+If you find this work is useful for your research, please consider giving us a star 🌟 and citing it by the following BibTeX entry.:
 
  ```latex
 @inproceedings{xu2022reliable,
