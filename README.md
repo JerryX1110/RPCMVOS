@@ -127,9 +127,11 @@ If you find this work is useful for your research, please consider citing:
   pages={2946--2954},
   year={2022}
 }
+```
 
 if you find the implementations helpful, please consider to cite:
-```
+
+ ```latex
 @misc{xu2022RPCMVOS,
   title={RPCMVOS-REPO},
   author={Xiaohao, Xu},
@@ -139,7 +141,7 @@ if you find the implementations helpful, please consider to cite:
   year={2022}
 }
 ```
-```  
+
 
     
 ## Credit
