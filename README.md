@@ -155,7 +155,7 @@ if you find the implementations helpful, please consider to cite:
 ## Related Works in VOS
 **Semisupervised video object segmentation repo/paper link:**
 
-**RobustVOS [ACM MM 2022]:<https://github.com/JerryX1110/Robust-Video-Object-Segmentation>
+**RobustVOS [ACM MM 2022]**:<https://github.com/JerryX1110/Robust-Video-Object-Segmentation>
 
 **QDMN [ECCV 2022]**:<https://github.com/workforai/QDMN>
 
