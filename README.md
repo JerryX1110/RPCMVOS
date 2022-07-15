@@ -157,6 +157,8 @@ if you find the implementations helpful, please consider to cite:
 
 **RobustVOS [ACM MM 2022]**:<https://github.com/JerryX1110/Robust-Video-Object-Segmentation>
 
+**XMEM [ECCV 2022]**:<https://github.com/hkchengrex/XMem>
+
 **QDMN [ECCV 2022]**:<https://github.com/workforai/QDMN>
 
 **GSFM [ECCV 2022]**:<https://github.com/workforai/GSFM>
