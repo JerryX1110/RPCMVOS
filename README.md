@@ -157,6 +157,8 @@ if you find the implementations helpful, please consider to cite:
 
 **RobustVOS [ACM MM 2022]**:<https://github.com/JerryX1110/Robust-Video-Object-Segmentation>
 
+**BATMAN [ECCV 2022 Oral]:<https://arxiv.org/pdf/2208.01159.pdf>
+
 **TBD [ECCV 2022]**:<https://github.com/suhwan-cho/TBD>
 
 **XMEM [ECCV 2022]**:<https://github.com/hkchengrex/XMem>
