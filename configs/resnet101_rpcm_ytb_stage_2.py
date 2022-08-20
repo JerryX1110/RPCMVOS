@@ -19,12 +19,12 @@ class Configuration():
         self.COMPRESSION_RATE = 4
         self.BLOCK_NUM = 2
 
-        self.DIR_ROOT = '/datasets/'
-        self.DIR_DAVIS =  os.path.join(self.DIR_ROOT, 'DAVIS')
-        self.DIR_YTB =  os.path.join(self.DIR_ROOT, 'MODELS/STCN-ALL/YouTube/train/')
-        self.DIR_YTB_EVAL18 =  os.path.join(self.DIR_ROOT, 'MODELS/STCN-ALL/YouTube2018/valid/')
-        self.DIR_YTB_EVAL19 =  os.path.join(self.DIR_ROOT,'MODELS/STCN-ALL/YouTube/valid/')
-        self.DIR_RESULT = os.path.join(self.DIR_ROOT, 'result', self.EXP_NAME)
+        self.DIR_ROOT = '../datasets/'  ## your custom dataset path
+        self.DIR_DAVIS =  os.path.join(self.DIR_ROOT, 'DAVIS') ## davis dataset path
+        self.DIR_YTB =  os.path.join(self.DIR_ROOT, '/YouTube/train/') ## ytb19 dataset path (for training)
+        self.DIR_YTB_EVAL18 =  os.path.join(self.DIR_ROOT, '/YouTube2018/valid/') ## ytb18 dataset path (for evaluation)
+        self.DIR_YTB_EVAL19 =  os.path.join(self.DIR_ROOT,'/YouTube/valid/')   ## ytb18 dataset path (for evaluation)
+        self.DIR_RESULT = os.path.join(self.DIR_ROOT, 'result', self.EXP_NAME)  ## result saving path
 
         self.DIR_CKPT = os.path.join(self.DIR_RESULT, 'ckpt')
         self.DIR_LOG = os.path.join(self.DIR_RESULT, 'log')
