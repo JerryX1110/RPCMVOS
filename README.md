@@ -155,6 +155,8 @@ if you find the implementations helpful, please consider to cite:
 ## Related Works in VOS
 **Semisupervised video object segmentation repo/paper link:**
 
+**DeAOT[NeurIPS 2022]**:<https://arxiv.org/pdf/2210.09782.pdf>
+
 **RobustVOS [ACM MM 2022]**:<https://github.com/JerryX1110/Robust-Video-Object-Segmentation>
 
 **BATMAN [ECCV 2022 Oral]**:<https://arxiv.org/pdf/2208.01159.pdf>
