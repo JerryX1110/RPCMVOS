@@ -154,6 +154,7 @@ if you find the implementations helpful, please consider to cite:
 
 ## Related Works in VOS
 **Semisupervised video object segmentation repo/paper link:**
+**TarVis [Arxiv 2023]**:<https://arxiv.org/pdf/2301.02657.pdf>
 
 **DeAOT[NeurIPS 2022]**:<https://arxiv.org/pdf/2210.09782.pdf>
 
