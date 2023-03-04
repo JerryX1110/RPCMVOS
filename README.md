@@ -155,6 +155,8 @@ if you find the implementations helpful, please consider to cite:
 ## Related Works in VOS
 **Semisupervised video object segmentation repo/paper link:**
 
+**ISVOS [CVPR 2023]**:<https://arxiv.org/pdf/2212.06826.pdf>
+
 **TarVis [Arxiv 2023]**:<https://arxiv.org/pdf/2301.02657.pdf>
 
 **LBLVOS [AAAI 2023]**:<https://arxiv.org/pdf/2212.02112.pdf>
