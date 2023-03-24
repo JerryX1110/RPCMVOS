@@ -155,6 +155,10 @@ if you find the implementations helpful, please consider to cite:
 ## Related Works in VOS
 **Semisupervised video object segmentation repo/paper link:**
 
+**MobileVOS [CVPR 2023]**:<https://arxiv.org/pdf/2303.07815.pdf>
+
+**Two-ShotVOS [CVPR 2023]**:<https://arxiv.org/pdf/2303.12078.pdf>
+
 **UNINEXT [CVPR 2023]**:<https://github.com/MasterBin-IIAU/UNINEXT>
 
 **ISVOS [CVPR 2023]**:<https://arxiv.org/pdf/2212.06826.pdf>
