@@ -69,7 +69,7 @@ A more light-weight version can be created by modified the [Dockerfile](https://
 
 * pretrained weights for the backbone
 
-  [resnet101-deeplabv3p](https://drive.google.com/file/d/1H3yUShfPqzxSt-nHJP-zYSbbu2o_RQQu/view)
+  [resnet101-deeplabv3p](https://github.com/VainF/DeepLabV3Plus-Pytorch)
 
 
 ## Training
