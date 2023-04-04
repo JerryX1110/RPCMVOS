@@ -1,4 +1,4 @@
-config="configs.resnet101_p2t"
+config="configs.resnet101_rpcm_ytb_stage_1"
 
 # using both propagation-correction modulator and reliable proxy augmentation
 
