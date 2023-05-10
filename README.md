@@ -155,6 +155,9 @@ if you find the implementations helpful, please consider to cite:
 
 ## Related Works in VOS
 **Semisupervised video object segmentation repo/paper link:**
+
+**PAOT [IJCAI 2023]**:<https://github.com/yoxu515/VIPOSeg-Benchmark>
+
 **ARKitTrack [CVPR 2023]**:<https://arxiv.org/pdf/2303.13885.pdf>
 
 **MobileVOS [CVPR 2023]**:<https://arxiv.org/pdf/2303.07815.pdf>
